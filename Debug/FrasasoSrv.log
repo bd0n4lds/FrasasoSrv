@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\bd90809\source\FrasasoSrv\main.cpp(8,41): error C2065: 'service': undeclared identifier
+C:\Users\bd90809\source\FrasasoSrv\main.cpp(19,43): error C2065: 'service': undeclared identifier
+  FrasasoSrvBase.cpp
+  FrasasoSrvInstaller.cpp
+C:\Users\bd90809\source\FrasasoSrv\FrasasoSrvInstaller.cpp(97,14): warning C4477: 'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'const ATL::CString'
+  Generating Code...
